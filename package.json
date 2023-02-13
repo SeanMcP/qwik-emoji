@@ -1,6 +1,6 @@
 {
   "name": "qwik-emoji",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "An accessible emoji component for Qwik applications",
   "author": "Sean McPherson <sean@seanmcp.com> (https://github.com/seanmcp)",
   "repository": "https://github.com/seanmcp/qwik-emoji",
