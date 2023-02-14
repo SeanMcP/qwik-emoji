@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- Added `keywords` to `package.json`
+
 ## [0.1.1] - 2023-02-13
 
 - Added `author`, `repository`, `bugs`, and `license` fields to `package.json`

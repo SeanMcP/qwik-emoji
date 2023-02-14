@@ -21,6 +21,13 @@
     "lib",
     "lib-types"
   ],
+  "keywords": [
+    "qwik",
+    "emoji",
+    "a11y",
+    "accessibility",
+    "accessible"
+  ],
   "engines": {
     "node": ">=15.0.0"
   },
